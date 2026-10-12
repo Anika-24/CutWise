@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.local
+wpkring-3/
+wprking-5/
+scrapsmart/
+node_modules

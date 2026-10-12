@@ -1,0 +1,9 @@
+{
+  "name": "cutwise-main",
+  "visibility": "public",
+  "site": {
+    "buildCommand": "npm run build",
+    "outputDirectory": "./dist",
+    "installCommand": "npm ci"
+  }
+}
